@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299582608957",
+    "firebase_url": "https://task-tracker-3d8cb-default-rtdb.firebaseio.com",
+    "project_id": "task-tracker-3d8cb",
+    "storage_bucket": "task-tracker-3d8cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299582608957:android:fb643dc83537b0abb8bc54",
+        "android_client_info": {
+          "package_name": "com.davud.apps.task_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299582608957-f1jge178arq3l0qt4rrf8713mn7rdp4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davud.apps.task_tracker",
+            "certificate_hash": "fdbd9e7c04c172c399ff492f7fd772189cda6085"
+          }
+        },
+        {
+          "client_id": "299582608957-v4c75qvu0u7h4aadrs3k0nuv59mn9g0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaqtFchjPVgz8FjkA_Lxxy9vt9V4hKvXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299582608957-v4c75qvu0u7h4aadrs3k0nuv59mn9g0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
